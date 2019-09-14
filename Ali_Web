@@ -1,0 +1,788 @@
+
+<!DOCTYPE html> 
+<html lang="en" style="height:100%;">
+    <head> 
+        <meta charset="utf-8"> 
+        <title>Oxford Walking, Bicycle Tours & more by ILOVEOXFORD</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Experience Oxford with our unique themed guided walking & bike tours. We also do parties & bicycle hire." />
+        <meta property="og:title" content="Oxford Walking, Bicycle Tours & more by ILOVEOXFORD" />
+        <meta property="og:image" content="http://visitoxfordtours.com/images/content/for-fb.png" />
+        <meta property="og:site_name" content="Visit Oxford with ILoveOxford" />
+        <meta property="og:url" content="http://visitoxfordtours.com/" />
+        <meta property="og:description" content="Experience Oxford with our unique themed guided walking & bike tours. We also do parties & bicycle hire." />
+        <meta property="fb:app_id" content="1265164566881140" />
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@visitoxfordtour">
+        <meta name="twitter:creator" content="@nikreations">
+        <meta name="twitter:title" content="Visit Oxford with ILoveOxford">
+        <meta name="twitter:description" content="Experience Oxford with our unique themed guided walking & bike tours. We also do parties & bicycle hire.">
+        <meta name="twitter:image" content="http://visitoxfordtours.com/images/content/for-fb.png">
+        <link rel="shortcut icon" href="images/content/icon.png">
+        <!-- Core CSS -->         
+        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"> 
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet">
+        <!-- Style Library -->         
+        <link href="css/style-library-1.css" rel="stylesheet">
+        <link href="css/plugins.css" rel="stylesheet">
+        <link href="css/blocks.css" rel="stylesheet">
+        <link href="css/custom.css" rel="stylesheet">
+        <link href="css/jquery.socialfeed.css" rel="stylesheet" />
+        <link href="css/owl.theme.css" rel="stylesheet" /> 
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->         
+        <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->         
+        <!-- Facebook Pixel Code -->
+        <script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+	fbq('init', '1244622132233570');
+	fbq('track', "PageView");</script>
+        <noscript>
+            <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1244622132233570&ev=PageView&noscript=1" />
+        </noscript>
+        <!-- End Facebook Pixel Code -->         
+    </head>     
+    <body data-spy="scroll" data-target="nav" class="bg-offwhite">
+        <a href="#" class="back-to-top" title="Go to top"><i class="fa fa-arrow-circle-up"></i></a>
+        <div id="home"></div>
+        <header id="header-1" class="header-1">
+            <!-- Navbar -->
+            <nav class="main-nav headroom headroom--pinned bg-black navbar-static-top">
+                <div class="container">
+                    <!-- Brand and toggle -->
+                    <div class="navbar-header">
+                        <button id="mobilemenubutton" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a href="index.php" title="Go to homepage">
+                            <img src="images/content/Logo2.png" class="brand-img img-responsive pad10" alt="Visit Oxford Tours by ILOVEOXFORD" />
+                        </a>
+                    </div>
+                    <!-- Navigation -->
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="active nav-item">
+                                <a href="#home" class="pomegranate-hover"><span class="fa fa-home pomegranate"></span> Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#tours" class="pomegranate-hover" title="Guided tours"><span class="fa fa-globe pomegranate"></span> Tours</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#card" class="pomegranate-hover" title="I Love Oxford Card for discounts from participating traders in Oxford"><span class="fa fa-credit-card pomegranate"></span> I<i class="fa fa-heart"></i>Oxford Card</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#contact" class="pomegranate-hover" title="Contact"><span class="fa fa-phone pomegranate"></span> +44 (0) 2079 657 523</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://api.whatsapp.com/send?phone=447955482637" class="pomegranate-hover" title="Chat with us on Whatsapp"><span class="fa fa-whatsapp pomegranate fa-lg"></span> <span class="hidden-md hidden-lg hidden-sm">Chat on Whatsapp</span></a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/cdn-cgi/l/email-protection#cebaa1bbbcbd8ea7a2a1b8aba1b6a8a1bcaae0ada1a3" class="pomegranate-hover" title="email tour organiser"><span class="fa fa-envelope pomegranate fa-lg"></span> <span class="hidden-md hidden-lg hidden-sm">Email us</span></a>
+                            </li>
+                            <li class="nav-item hidden-md hidden-lg hidden-sm">
+                                <a href="#tourreviews" class="pomegranate-hover" title="Reviews of our tours by visitors"><span class="fa fa-tripadvisor pomegranate"></span> Tour reviews</a>
+                            </li>
+                            <li class="nav-item hidden-md hidden-lg hidden-sm">
+                                <a href="http://iloveoxford.com/visitOxford.html" target="_blank" class="pomegranate-hover" title="If you are visiting Oxford"><span class="fa fa-heart pomegranate"></span> I'm visiting Oxford</a>
+                            </li>
+                            <li class="nav-item hidden-md hidden-lg hidden-sm">
+                                <a href="http://iloveoxford.com/iliveinloveoxford.html" target="_blank" class="pomegranate-hover" title="If you live in Oxford"><span class="fa fa-heart pomegranate"></span> I live in/ love Oxford</a>
+                            </li>
+                            <li class="nav-item hidden-md hidden-lg hidden-sm">
+                                <a href="http://iloveoxford.com/itradeinoxford.html" target="_blank" class="pomegranate-hover" title="If you trade in Oxford"><span class="fa fa-heart pomegranate"></span> I trade in Oxford</a>
+                            </li>
+                        </ul>
+                        <!--//nav-->
+                    </div>
+                    <!--// End Navigation -->
+                </div>
+                <!--// End Container -->
+            </nav>
+            <!--// End Navbar -->
+        </header>
+        <header id="header-3" class="header-3" style="position: relative">
+            <section class="hero pad-bottom90 vo">
+                <div class="container">
+                    <div class="col-md-8 col-md-offset-2 text-center">
+                        <div class="editContent">
+                            <h1 style="display: block;" class="white margin-top60">Unique guided tours of Oxford and beyond</h1>
+                        </div>
+                        <div class="editContent pomegranate">
+                            <p class="lead white" style="display: block;">If you are visiting Oxford, experience this historic city with our unique &amp; memorable guided walking tours, cycle tours, river trips. Book themed tours to suit all ages &amp; interests, including Harry Potter or Inspector Morse tours. Plus day tours to destinations beyond Oxford eg to Blenheim palace &amp; the Cotswolds. Please have a look at our diverse tour offerings below.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </header>
+        <div id="tours" class="pad-bottom45 bg-white"></div>
+        <!--<div id="toursAjax"></div>-->
+         
+<section class="content-block content-1-8"> 
+    <div class="container"> 
+        <div class="underlined-title pad-bottom25"> 
+            <h1 style="display: block;">Our tours</h1> 
+            <hr> 
+            <p>Note: if the calendar shows no availability, please call us on +44 (0) 2079 657 523 or <a href="/cdn-cgi/l/email-protection#265249535455664f4a495043495e404954420845494b">email us</a> to see what we can do for you.</p> 
+            <!--<div class="row">
+                        <div class="col-sm-6 col-sm-offset-3 col-xs-12 col-md-4 col-md-offset-4">
+                            <button type="button" data-toggle="modal" data-target="#modal1" class="btn btn-block bg-silver-hover bg-pomegranate" id="book" title="See schedule and book your tour here">Book activity</button>
+                        </div>
+                    </div>-->             
+        </div>         
+        <ul class="nav nav-tabs text-center" role="tablist" id="myTabx"> 
+            <li class="active"> 
+                <a href="#tabx1" role="tab" data-toggle="tab">Walking Tours</a> 
+            </li>             
+            <li> 
+                <a href="#tabx2" role="tab" data-toggle="tab">Bicycle Tours</a> 
+            </li>             
+            <li> 
+                <a href="#tabx3" role="tab" data-toggle="tab">Private Tours</a> 
+            </li>             
+            <li> 
+                <a href="#tabx4" role="tab" data-toggle="tab">Tours Beyond Oxford</a> 
+            </li>             
+            <li> 
+                <a href="#tabx5" role="tab" data-toggle="tab">Gift Vouchers</a> 
+            </li>             
+        </ul>         
+        <div class="tab-content"> 
+            <div class="tab-pane fade in active pad-bottom0" id="tabx1" style="border: 0"> 
+                <div class="row"> 
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 col-sm-2 text-center pad-bottom10"> 
+                            <span class="fa fa-graduation-cap fa-2x pomegranate"></span> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/oxfordcityuniversitywalkingtours.html"> 
+                                <img src="images/content/oxford%20university%20tours%20walking%20tours%20Oxford.jpg" class="img-responsive" alt="Oxford University Walking tours" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">Oxford City &amp; University Walking Tour</h4> 
+                            <p class="margin-top0 margin-bottom0">Discover Oxford city history + university life. English history, college life, literary Oxford &amp; more!</p> 
+                            <p class="margin-top10 margin-bottom0"></p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/oxfordcityuniversitywalkingtours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 col-sm-2 text-center pad-bottom10"> 
+                            <img src="images/content/madhatter.png" width="25" alt="Madhatter" /> 
+                            <img src="images/content/harrypotter.png" width="25" alt="Harry potter" /> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/madhatterwalkingtours.html"> 
+                                <img src="images/content/Harry_Potter_Tour.jpg" class="img-responsive" alt="Madhatter with Alice" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">Christchurch College (skip the queue) Harry Potter Alice Tour</h4> 
+                            <p class="margin-top0 margin-bottom0">See inside Christchurch - popular worldwide with both Alice in Wonderland &amp; Harry Potter fans!</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/harrypotterchristchurchtours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 col-sm-2 text-center pad-bottom10"> 
+                            <img src="images/content/harrypotter.png" width="25" alt="Harry potter" /> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/harrypotterwalkingtours.html"> 
+                                <img src="images/content/Divinity_School_Oxford.jpg" class="img-responsive" alt="Harry potter walking tour" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">Harry Potter in Oxford Walking Tour</h4> 
+                            <p class="margin-top0 margin-bottom0">See world-famous Harry potter film sites. Potter-mania quiz to win prizes. Be inspired by Oxford!</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/harrypotterwalkingtours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 text-center pad-bottom10 col-sm-2"> 
+                            <i class="fa fa-search fa-2x pomegranate"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/inspectormorseoxfordtours.html"> 
+                                <img src="images/content/listings/White_Horse.jpg" class="img-responsive" alt="White horse pub" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">Inspector Morse Oxford Tour</h4> 
+                            <p class="margin-top0 margin-bottom0">Help us solve Inspector Morse's crime riddles.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/inspectormorseoxfordtours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <i class="fa fa-bank pomegranate fa-2x"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/blenheimpalacetours.html"> 
+                                <img src="images/content/Blenheim_Palace.jpg" alt="Blenheim Palace" class="img-responsive" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Blenheim Palace guided tour</h4> 
+                            <p class="margin-top0 margin-bottom0">Home of Churchill's family &amp; one of England's finest stately homes &amp; gardens.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/blenheimpalacetours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <i class="fa fa-cutlery fa-2x pomegranate"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/oxfordfoodtastingtours.html"> 
+                                <img src="images/content/iscreamStafftasting.jpg" class="img-responsive" alt="Finest Gelato at IScream" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">Oxford Local Food &amp; Drinks + Sightseeing Tour</h4> 
+                            <p class="margin-top0 margin-bottom0">Enjoy a guided sightseeing & food tasting Oxford tour. Sample 4 or more of Oxford's best food or drinks market stalls. Experience a taste of Oxford's local food specialities like Oxford Blue cheese!</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/oxfordfoodtastingtours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 text-center pad-bottom10 col-sm-2"> 
+                            <i class="fa fa-beer fa-2x pomegranate"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/oxfordpubtours.html"> 
+                                <img src="images/content/Oxford%20Pub%20Tours%20Crawl%203.jpg" class="img-responsive" alt="Oxford Pub Crawls and Tours" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">Oxford Pub Tour: History + Beer!</h4> 
+                            <p class="margin-top0 margin-bottom0">Visit historic pubs. Learn all about how the town &amp; the gown rivalries have shaped Oxford history.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/oxfordpubtours.html">Book/ Learn More</a> 
+                        </div>
+                    </div>
+                    <div class="col-xs-12 pad25 pad-bottom25"> 
+                        <div class="col-xs-12 col-sm-2 text-center pad-bottom10"> 
+                            <img src="images/content/hobbit.png" width="35" alt="Hobbit" /> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/cslewis_tolkien_tour.html"> 
+                                <img src="images/content/listings/Merton_College_Chapel.jpg" class="img-responsive" alt="C.S. Lewis &amp; JRR Tolkien Inklings Walking Tour" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">C.S. Lewis &amp; JRR Tolkien Inklings Walking Tour</h4> 
+                            <p class="margin-top0 margin-bottom0">See inspiring sights relating to CS Lewis &amp; JRR Tolkien, where they worked &amp; relaxed, including the pubs they enjoyed.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/cslewis_tolkien_tour.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>
+                    <!-- /.col -->                     
+                </div>                 
+                <!-- /.row -->                 
+            </div>             
+            <!-- /#tab1 -->             
+            <div class="tab-pane fade pad-bottom0" id="tabx2" style="border: 0"> 
+                <div class="row"> 
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 col-sm-2 text-center pad-bottom10"> 
+                            <span class="fa fa-bicycle fa-2x pomegranate"></span> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/oxfordcitycountrysidecycletours.html"> 
+                                <img src="images/content/Cycling%20along%20River%20Thames.jpg" class="img-responsive" alt="Cycling along river Thames" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">Oxford Cycle Tours</h4> 
+                            <p class="margin-top0 margin-bottom0">See more sights of and experience Oxford as the locals do - on two wheels! Fun for all ages but ideal for families!</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/oxfordcitycountrysidecycletours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 text-center pad-bottom10 col-sm-2"> 
+                            <img src="images/content/madhatter.png" width="25" class="margin-bottom15" alt="Madhatter" /> 
+                            <span class="fa fa-bicycle fa-2x pomegranate"></span> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/aliceinoxfordbicycletours.html"> 
+                                <img src="images/content/Alice%20in%20Wonderland%20Oxford%20Bicycle%20Tour.jpg" class="img-responsive" alt="Alice in Wonderland Oxford Bicycle Tour" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">Alice in Wonderland Oxford Bicycle Tour</h4> 
+                            <p class="margin-top0 margin-bottom0">Guided cycle tour of 'Alice in Wonderland' original story-telling route on Thames river cycle-path.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/aliceinoxfordbicycletours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <i class="fa fa-bicycle pomegranate fa-2x"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/bicyclehire.html"> 
+                                <img src="images/content/Cycling%20along%20River%20Thames.jpg" class="img-responsive" alt="Cycling along River Thames" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Bicycle Hire</h4> 
+                            <p class="margin-top0 margin-bottom0">Hire bicycles for a day or 24 hours or for a week.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/bicyclehire.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>
+                    <div class="col-xs-12 pad25 pad-bottom25"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+								<i class="fa fa-bicycle fa-2x pomegranate"></i>
+								<i class="fa fa-bolt fa-1x pomegranate"></i>
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/cotswolds_electric_bike_day_tours.html"> 
+                                <img src="images/content/cotswolds_electric_bike_day_tours.jpg" class="img-responsive" alt="electric bike" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Cotswolds Electric Bike Day Tours</h4> 
+                            <p class="margin-top0 margin-bottom0">Enjoy a cycling day out with your guide, who will show you some beautiful scenic routes &amp; sights of the Cotswolds.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/cotswolds_electric_bike_day_tours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>
+                    <!-- /.col -->                     
+                </div>                 
+                <!-- /.row -->                 
+            </div>             
+            <!-- /#tab2 -->             
+            <div class="tab-pane fade pad-bottom0" id="tabx3" style="border: 0"> 
+                <div class="row"> 
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 text-center pad-bottom10 col-sm-2"> 
+                            <div class="col-xs-6"> 
+                                <i class="fa fa-graduation-cap fa-2x pomegranate"></i> 
+                                <i class="fa fa-coffee fa-2x pomegranate"></i> 
+                            </div>                             
+                            <div class="col-xs-6"> 
+                                <i class="fa fa-bicycle fa-2x pomegranate"></i> 
+                                <i class="fa fa-ship fa-2x pomegranate"></i> 
+                            </div>                             
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/bespoketours.html"> 
+                                <img src="images/content/oxford%20university%20tours%20walking%20tours%20Oxford.jpg" class="img-responsive" alt="Oxford University walking tours" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Oxford Guided Tours - Bespoke Private Tours - upon request!</h4> 
+                            <p class="margin-top0 margin-bottom0">Request a bespoke tour at a time &amp; interests to suit you- by advance notice only.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/bespoketours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 text-center pad-bottom10 col-sm-2"> 
+                            <div class="col-xs-6"> 
+                                <img src="images/content/madhatter.png" width="25" class="margin-bottom5" alt="Madhatter" /> 
+                                <i class="fa fa-glass fa-2x pomegranate"></i> 
+                            </div>                             
+                            <div class="col-xs-6"> 
+                                <i class="fa fa-coffee fa-2x pomegranate"></i> 
+                                <i class="fa fa-ship fa-2x pomegranate"></i> 
+                            </div>                             
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/madhatteralicethemedprivatetours.html"> 
+                                <img src="images/content/Private%20tea%20parties%20picnics%20with%20Mad%20Hatter%20and%20Alice.jpg" class="img-responsive" alt="Private tea parties and picnics with Madhatter and Alice" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Mad Hatter/ Alice themed</h4> 
+                            <p class="margin-top0 margin-bottom0">Picnics/ Tea Parties/ River trips available for private bookings only.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/madhatteralicethemedprivatetours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <img src="images/content/ghosttour.png" class="" width="35" style="margin:auto" /> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/oxfordcomicghosttours.html"> 
+                                <img src="images/content/Oxford Comic Ghost Tours.jpg" class="img-responsive" alt="Oxford Comic Ghost Tours" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Oxford Ghost Tour</h4> 
+                            <p class="margin-top0 margin-bottom0">Find out how Oxford is one of England's most haunted cities.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/oxfordcomicghosttours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>
+					<div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <i class="fa fa-ship pomegranate fa-2x"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/aliceinoxfordrivercruise.html"> 
+                                <img src="images/content/AliceOxfordRiverCruise.jpg" class="img-responsive" alt="Alice themed Oxford River Cruise" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Alice in Wonderland Oxford river cruise</h4> 
+                            <p class="margin-top0 margin-bottom0">Follow roughly the famous original story-telling route of 'Alice in Wonderland'.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/aliceinoxfordrivercruise.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <i class="fa fa-ship pomegranate fa-2x"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/guidedrowingpunting.html"> 
+                                <img src="images/content/guidedrowingpunting2.jpg" class="img-responsive" alt="Guided rowing/ punting" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Chauffeured Rowing/ Punting</h4> 
+                            <p class="margin-top0 margin-bottom0">Guided rowing or punting on river Cherwell.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/guidedrowingpunting.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC">  
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <i class="fa fa-coffee fa-2x pomegranate"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/mrdarcyteastours.html"> 
+                                <img src="images/content/mr%20darcy%20with%20Jane%20austen%20outside%20Bath%20Austen%20house.jpg" class="img-responsive" alt="Mr Darcy with Jane Austen, Bath" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Teas &amp; Tours with Mr Darcy</h4> 
+                            <p class="margin-top0 margin-bottom0">Experience Jane Austen’s world with a costumed Mr Darcy! Guided tour of Bath, Oxford or Chawton.</p> 
+                            <p class="margin-top10 margin-bottom0"><a href="http://visitoxfordtours.com/mrdarcyteastours.html" title="Mr Darcy Tours">Book/ Learn More</a></p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/mrdarcyteastours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>  
+                    <div class="col-xs-12 pad25 pad-bottom25"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <img width="35" src="images/content/shakespeare.png" alt="Shakespeare" /> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/ShakespearesOxfordTour.html"> 
+                                <img src="images/content/ShakespearesOxfordTour.jpg" class="img-responsive" alt="" style="border: 1px solid #CCC" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">Shakespeare Street Theatre Oxford Tour</h4> 
+                            <p class="margin-top0 margin-bottom0">Enjoy street theatre comic sketches against Oxford backdrops as part of an anecdotal walking tour to introduce Shakespeare's Oxford connections and the life of a Shakespearean player. Unique entertainment for a visit to Oxford!</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/ShakespearesOxfordTour.html">Book/ Learn More</a> 
+                        </div>                        
+                    </div>                     
+                </div>                 
+                <!-- /.row -->                 
+            </div>             
+            <!-- /#tab3 -->             
+            <div class="tab-pane fade pad-bottom0" id="tabx4" style="border: 0"> 
+                <div class="row"> 
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <i class="fa fa-glass fa-2x pomegranate"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/blenheimpalaceevening.html"> 
+                                <img src="images/content/Blenheim_Palace_Grand_Bridge.jpg" class="img-responsive" alt="Blenheim Palace Grand Bridge" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-7"> 
+                            <h4 class="margin-bottom5 margin-top5">Evening at Blenheim Palace grounds</h4> 
+                            <p class="margin-top0 margin-bottom0">A picnic with sparkling wine and Opera Music singer, followed by a leisurely walk in the palace grounds.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/blenheimpalaceevening.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <img width="35" src="images/content/JaneAusten.png" alt="Jane Austen" /> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/bathcitytour.html"> 
+                                <img src="images/content/Bath.jpg" class="img-responsive" alt="Bath" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Bath City tour with Regency historian guide</h4> 
+                            <p class="margin-top0 margin-bottom0">The tour highlights locations mentioned in Jane Austen's novels and visits Bath's architectural gems.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/bathcitytour.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <i class="fa fa-cutlery fa-2x pomegranate"></i> 
+                        </div>                          
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/bath_food_drinks_tour.html"> 
+                                <img src="images/content/iscreamStafftasting.jpg" class="img-responsive" alt="Bath" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Bath Food &amp; Drinks + Sightseeing Tour</h4>
+                            <p class="margin-top0 margin-bottom0">Enjoy at least 4 food or drink tastings included, as we visit some of the best local food &amp; drink shops, including amazing patisserie cake or chocolate shops to rival Paris! See inspiring sights, relating to Bath&#39;s history, architecture &amp; hear about Jane Austen&#39;s connections to Bath.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/bath_food_drinks_tour.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <img width="35" src="images/content/shakespeare.png" alt="Shakespeare" /> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/stratforduponavontour.html"> 
+                                <img src="images/content/Shakespeare02.jpg" class="img-responsive" alt="Shakespeare" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Shakespeare's Stratford upon Avon Thespian tour</h4> 
+                            <p class="margin-top0 margin-bottom0">Shakespeare's No Holds Bard Tour will tell you tales of his loves, tragedies &amp; inspirations amongst Stratford upon Avon city sights.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/stratforduponavontour.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25" style="border-bottom: 1px solid #CCC"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <i class="fa fa-car pomegranate fa-2x"></i>&nbsp;&nbsp;
+                            <i class="fa fa-bicycle pomegranate fa-2x"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/cotswoldstours.html"> 
+                                <img src="images/content/Cotswolds_tour.jpg" class="img-responsive" alt="Cotswold Tours" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Cotswolds By Car/ By Cycle/ Combination</h4> 
+                            <p class="margin-top0 margin-bottom0">See some of England’s most picturesque villages on a full day excursion.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/cotswoldstours.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <div class="col-xs-12 pad25 pad-bottom25"> 
+                        <div class="col-xs-12 pad-bottom10 col-sm-2 text-center"> 
+                            <i class="fa fa-bus pomegranate fa-2x"></i>&nbsp;&nbsp;
+                            <i class="fa fa-car pomegranate fa-2x"></i> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <a href="http://visitoxfordtours.com/dayexcursions.html"> 
+                                <img src="images/content/Stonehenge.jpg" class="img-responsive" alt="Stonehenge Tours" /> 
+                            </a>                             
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Day excursions to other destinations</h4> 
+                            <p class="margin-top0 margin-bottom0">See suggestions for day excursions from Oxford to visit Jane Austen's Bath or Chawton. Shakespeare tour of Stratford-upon-Avon. Plus destinations like Cambridge, London, Brighton.</p> 
+                        </div>                         
+                        <div class="text-center col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0"> 
+                            <a class="btn btn-block bg-silver-hover bg-pomegranate" href="http://visitoxfordtours.com/dayexcursions.html">Book/ Learn More</a> 
+                        </div>                         
+                    </div>                     
+                    <!-- /.col -->                     
+                </div>                 
+                <!-- /.row -->                 
+            </div>             
+            <!-- /#tab4 -->             
+            <div class="tab-pane fade pad-bottom0" id="tabx5" style="border: 0"> 
+                <div class="row"> 
+                    <div class="col-xs-12 pad25 pad-bottom25"> 
+                        <div class="col-xs-12 col-sm-2 text-center pad-bottom10"> 
+                            <span class="fa fa-gift fa-2x pomegranate"></span> 
+                        </div>                         
+                        <div class="col-xs-12 text-center col-sm-3"> 
+                            <img src="images/content/oxford%20university%20tours%20walking%20tours%20Oxford.jpg" class="img-responsive" alt="Oxford University walking tours" /> 
+                        </div>                         
+                        <div class="col-xs-12 col-sm-6"> 
+                            <h4 class="margin-bottom5 margin-top5">Gift Vouchers</h4> 
+                            <p class="margin-top0 margin-bottom0">If you would like to gift our tours, vouchers are available to purchase by clicking the button below:</p> 
+                        </div>                         
+                        <div class="col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-8 col-md-3 col-md-offset-9 col-lg-3 col-lg-offset-0 margin-top10"> 
+                            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://assets.ticketinghub.com/checkout.js" data-channel="2eb6da9a-4fb2-435e-af33-93def8e10a42" data-endpoint="https://api.ticketinghub.com" data-layout="button" data-landing="tickets" data-event-period="7" data-events-view-mode="multi-day" data-type="voucher" data-fields="name,email,telephone" data-collect-voucher-recipient-info="0" data-color="#c0392b" data-button-label="GIFT VOUCHERS" data-lang="en" data-currency="GBP" data-discounts="0" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>                             
+                        </div>                         
+                    </div>                     
+                </div>                 
+                <!-- /.row -->                 
+            </div>             
+            <!-- /#tab3 -->             
+        </div>         
+        <!-- /.tab-content -->         
+    </div>     
+    <!-- /.container -->     
+</section>        <section id="content-1-3" class="content-block content-1-3 bg-offwhite">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="underlined-title pad-bottom0">
+                            <h1>Social Media Feeds</h1>
+                            <hr>
+                        </div>
+                        <div class="services-wrapper">
+                            <div class="col-md-5 pad20">
+                                <div class="fb-page" data-href="https://www.facebook.com/iloveoxford" data-tabs="timeline" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                                    <blockquote cite="https://www.facebook.com/iloveoxford" class="fb-xfbml-parse-ignore">
+                                        <a href="https://www.facebook.com/iloveoxford">I Love Oxford</a>
+                                    </blockquote>
+                                </div>
+                            </div>
+                            <div class="col-md-7 pad20">
+                                <a class="twitter-timeline" href="https://twitter.com/visitoxfordtour" data-height="500">
+Tweets by visitoxfordtour</a> 
+                                <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </section>
+        <div id="visitorTourReviewsAjax"></div>
+        <div id="ILoveOxfordCardAjax"></div>
+        <div id="bigSocialFooterAjax"></div>
+        <div id="contact" class="bg-white"></div>
+        <div id="toursFooterAjax"></div>
+        <div class="text-center bg-black pad-bottom20">
+            <script src="https://assets.ticketinghub.com/checkout.js" data-channel="61e4dbd6-e1f1-419b-8d9b-75041970e8fd" data-endpoint="https://api.ticketinghub.com" data-context="reseller" data-layout="button" data-landing="tickets" data-event-period="7" data-fields="name,email,telephone" data-color="#c0392b" data-button-label="RESELLER LOGIN" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1"></script>
+            <script src="https://assets.ticketinghub.com/checkout.js" data-channel="2eb6da9a-4fb2-435e-af33-93def8e10a42" data-endpoint="https://api.ticketinghub.com" data-layout="button" data-landing="tickets" data-event-period="7" data-events-view-mode="multi-day" data-type="voucher" data-fields="name,email,telephone" data-collect-voucher-recipient-info="0" data-color="#c0392b" data-button-label="GIFT VOUCHERS" data-lang="en" data-currency="GBP" data-discounts="0" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
+        </div>
+        <div id="CopyrightAjax"></div>
+        <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>         
+        <script type="text/javascript" src="js/plugins.js"></script>
+        <script type="text/javascript" src="js/bskit-scripts.js"></script>         
+        <script type="text/javascript" src="js/backtotop.js"></script>
+        <script type="text/javascript" src="js/jquery.stickytabs.js"></script>
+        <script>				
+			
+			$(document).ready(function() {
+			$('.nav-tabs').stickyTabs();
+			$("#CopyrightAjax").load("CopyrightAjax.html");
+			//$("#toursAjax").load("toursAjax.html");
+			$("#ILoveOxfordCardAjax").load("ILoveOxfordCardAjax.html");
+			$('[data-toggle="tooltip"]').tooltip(); 
+			$("#bigSocialFooterAjax").load("bigSocialFooterAjax.html");
+			$("#visitorTourReviewsAjax").load("visitorTourReviewsAjax.html", function() {runQuoteCarousel ();} );
+			$("#toursFooterAjax").load("toursFooterAjax.html");
+			  //to hide menu items on tap on mobile
+			  if($('#mobilemenubutton').is(':visible')) {
+				  $(".navbar-nav li a").click(function(event) {
+					$(".navbar-collapse").collapse('hide');
+				  });
+				}
+			});
+		</script>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+        <!-- Start of StatCounter Code for Default Guide -->
+        <script type="text/javascript">
+		var sc_project=10824983; 
+		var sc_invisible=1; 
+		var sc_security="28e6f38a"; 
+		var scJsHost = (("https:" == document.location.protocol) ?
+		"https://secure." : "http://www.");
+		document.write("<sc"+"ript type='text/javascript' src='" +
+		scJsHost+
+		"statcounter.com/counter/counter.js'></"+"script>");
+		</script>
+        <noscript>
+            <div class="statcounter">
+                <a title="web analytics" href="http://statcounter.com/" target="_blank">
+                    <img class="statcounter" src="https://c.statcounter.com/10824983/0/28e6f38a/1/" alt="web analytics" />
+                </a>
+            </div>
+        </noscript>
+        <!-- End of StatCounter Code for Default Guide -->
+        <!-- Google Analytics -->
+        <script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-88401520-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+        <!-- Google Analytics End -->
+        <!-- Adwords Code -->
+        <script>
+			window.addEventListener('load',function(){
+				if(window.location.href.indexOf("/visitOxford.html") != -1){
+					jQuery('.th-checkout-button:contains("BOOK NOW")').click(function(){
+						var college_name=jQuery(this).parent().parent().find('h4').text();
+						ga('send','event','booknow-button','click',college_name);
+					});
+				}
+			})
+		</script>
+        <!-- Adwords Code end -->
+        <script type="application/ld+json">
+		{
+		  "@context" : "http://schema.org",
+		  "@type" : "Organization",
+		  "name" : "I Love Oxford",
+		  "url" : "http://visitoxfordtours.com/",
+		  "sameAs" : [
+			"https://www.facebook.com/ILoveOxford",
+			"https://twitter.com/visitoxfordtour",
+			"https://plus.google.com/106378199184192436199"
+		  ]
+		}
+		</script>
+    </body>
+</html>
